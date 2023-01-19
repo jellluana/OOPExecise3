@@ -5,8 +5,8 @@ public class Instructor
 		StudentCard card1, card2;
 	} 
 	Instructor = new Student();
-	student.setName("Jeah Agustin");
-	student.setEmail("jeahagustin@gmail.com");
+	student.setName("Jella Luaña");
+	student.setEmail("jellaluana797@gmail.com");
 	
 	card1 = new Student();
 	card1.setOwner(Student);
